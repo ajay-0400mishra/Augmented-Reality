@@ -1,0 +1,11 @@
+ar_dashboard/
+├─ app.py
+├─ requirements.txt
+├─ README.md
+└─ assets/
+   ├─ hud_bg.jpg               # optional background
+   ├─ ar_visualize.png         # optional icon/img
+   ├─ ar_instruct.png
+   ├─ ar_interact.png
+   ├─ ar_vr.png
+   └─ logo.png                 # your logo (optional)
